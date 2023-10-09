@@ -1,2 +1,2 @@
-# github.io Do not fork this repo.It's my site.
+# github.io Do fork this repo.It's not my site.
 Please fork this repo.It's not my site.
